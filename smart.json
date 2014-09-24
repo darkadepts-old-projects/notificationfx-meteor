@@ -1,0 +1,12 @@
+{
+	"name": "notificationfx",
+	"description": "NotificationFX",
+	"homepage": "",
+	"author": "Mike Kornelson <mike@koretech.ca>",
+	"version": "1.0.0",
+	"git": "",
+	"packages": {},
+	"bower": {
+		"classie": "1.0.1"
+	}
+}
